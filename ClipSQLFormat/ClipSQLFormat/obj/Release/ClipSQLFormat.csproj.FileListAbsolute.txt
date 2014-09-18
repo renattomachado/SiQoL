@@ -1,0 +1,15 @@
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\ClipSQLFormat.exe.config
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\ClipSQLFormat.exe
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\ClipSQLFormat.pdb
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\PoorMansTSqlFormatterLib35.dll
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.FPrincipal.resources
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.Properties.Resources.resources
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.csproj.GenerateResource.Cache
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.exe
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.pdb
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\ClipSQLFormat.exe.manifest
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\ClipSQLFormat.application
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.csprojResolveAssemblyReference.cache
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.TrustInfo.xml
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.exe.manifest
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\ClipSQLFormat.application

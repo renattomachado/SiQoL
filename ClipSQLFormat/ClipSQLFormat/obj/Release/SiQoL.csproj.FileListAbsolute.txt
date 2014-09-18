@@ -1,0 +1,15 @@
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\SiQoL.exe.config
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\SiQoL.exe.manifest
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\SiQoL.application
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\SiQoL.exe
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\SiQoL.pdb
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Release\PoorMansTSqlFormatterLib35.dll
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.csprojResolveAssemblyReference.cache
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.FPrincipal.resources
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.Properties.Resources.resources
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.csproj.GenerateResource.Cache
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.TrustInfo.xml
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.exe.manifest
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.application
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.exe
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Release\SiQoL.pdb

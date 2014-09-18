@@ -1,0 +1,9 @@
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Debug\ClipSQLFormat.exe.config
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Debug\ClipSQLFormat.FPrincipal.resources
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Debug\ClipSQLFormat.Properties.Resources.resources
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Debug\ClipSQLFormat.csproj.GenerateResource.Cache
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Debug\ClipSQLFormat.exe
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Debug\ClipSQLFormat.pdb
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\bin\Debug\PoorMansTSqlFormatterLib35.dll
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Debug\ClipSQLFormat.exe
+D:\Renatto\Projetos\ClipSQLFormat\ClipSQLFormat\ClipSQLFormat\obj\Debug\ClipSQLFormat.pdb
